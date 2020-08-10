@@ -1,0 +1,22 @@
+La prueba fue realizada con las siguientes herramientas.
+1.- Sublimetext
+2.- XAMPP (servidor local apache con mysql y php)
+
+Por parte del codigo utilice lo siguiente:
+1.- HTML, CSS con BOOTSTRAP, JAVASCRIPT y JQUERY
+2.- PHP
+3.- MYSQL con ayuda de phpmyadmin para crear la base de datos
+4.- Use el Patron de MVC (modelo, vista y controlador) ya que aun no se manejar frameworks de php robustos.
+Por tal motivo lo hice con php puro, aunque conozco bien el patron MVC ya que he trabajado con el y he ese estan hecho
+la mayoria de frameworks de php.
+
+*******************************************************  NOTA  ********************************************************
+
+Ya que la prueba la realize con codigo puro de PHP el desarrollo me llevo mas tiempo.
+Para poder ver y probar el proyecto solo necesitas lo siguiente.
+1.- Instalar XAMPP, este ya cuenta con todo lo encesario para ejecutar aplicaciones cpn php y mysql
+2.- Copiar y pegar toda la carpeta a la ruta de xampp/htdocs/
+3.- Y por ultimo importar la bd con phpmyadmin (localhost/phpmyadmin), la base que subi viene
+ya con algunos datos de prueba
+
+*******************************************************  NOTA  ********************************************************

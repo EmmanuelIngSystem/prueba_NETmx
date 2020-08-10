@@ -1,18 +1,37 @@
-En total llevo:
+*****************************************************
 1 hora y 40 minutos
-Lo que he realizado es la vista del login y registro, valdiar los campos con js, y enviar los datos al controlador.
-Me quede en los metodos para guardar y loguear al usuario
+*****************************************************
 
+*****************************************************
 Continue a las 8:40 pm
+*****************************************************
 
+*****************************************************
 Termine a las 10:40pm
+*****************************************************
 
-Falta restarle el tiempo que use para descansar XD
-
+*****************************************************
 Cotinue a las 3:10pm
+*****************************************************
 
-Termine a las 6:39pm
+*****************************************************
+Termine a las 6:40pm
+*****************************************************
 
+*****************************************************
 Continue 8:30pm
+*****************************************************
 
+*****************************************************
 Termien a las 12:17
+*****************************************************
+
+Tiempo de desarrollo
+1.-	1 hora y 40 minutos (100 minutos)
+2.-	2 horas (120 minutos)
+3.-	3 horas y media (210 minutos)
+4.-	3 horas y 47 minutos (227 minutos)
+
+TOTAL						8 horas aproximadamente (657 minutos - 135 minutos = 522 minutos)
+
+Le quite el tiempo que tome de descanso (135 minutos durante las 8 horas y no fueron corridas sino por partes)
