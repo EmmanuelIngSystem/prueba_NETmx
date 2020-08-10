@@ -1,0 +1,10 @@
+Realizado en mvc o framework mvc
+
+* Subirlo a github para revison de codigo y verlo visualmente *
+1.- Acceso por usuario y contraseña con validacion		OK
+2.- Solo visualizar tareas del usuario logueado			OK
+3.- Poder realizar un CRUD por usuarios. Las tareas tendra cierta informacion (titulo, descripcion, etc)
+4.- Listado de tareas con titulo y link para abrir otra pagina y ver los detalles de dicha tarea	OK
+5.- Las tareas deben tener un estatus (abiertas, en proceso, cerradas)					OK
+6.- Se deben poder filtrar las tareas por estatus
+

@@ -1,0 +1,18 @@
+En total llevo:
+1 hora y 40 minutos
+Lo que he realizado es la vista del login y registro, valdiar los campos con js, y enviar los datos al controlador.
+Me quede en los metodos para guardar y loguear al usuario
+
+Continue a las 8:40 pm
+
+Termine a las 10:40pm
+
+Falta restarle el tiempo que use para descansar XD
+
+Cotinue a las 3:10pm
+
+Termine a las 6:39pm
+
+Continue 8:30pm
+
+Termien a las 12:17

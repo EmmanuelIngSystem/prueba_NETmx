@@ -1,0 +1,13 @@
+.link_reg_login{
+	display: block;
+    width: 100%;
+    padding: 2%;
+    text-align: right;
+    margin-bottom: 2%;
+    color: blue;
+    text-decoration: underline;
+}
+
+.modal{
+	background: rgba(0,0,0,0.5);
+}
